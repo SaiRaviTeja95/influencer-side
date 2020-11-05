@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/influencer-side/static/js/main.10c4a864.chunk.js",
+    "main.js.map": "/influencer-side/static/js/main.10c4a864.chunk.js.map",
+    "runtime-main.js": "/influencer-side/static/js/runtime-main.5b6997f3.js",
+    "runtime-main.js.map": "/influencer-side/static/js/runtime-main.5b6997f3.js.map",
+    "static/js/2.f2d541ab.chunk.js": "/influencer-side/static/js/2.f2d541ab.chunk.js",
+    "static/js/2.f2d541ab.chunk.js.map": "/influencer-side/static/js/2.f2d541ab.chunk.js.map",
+    "index.html": "/influencer-side/index.html",
+    "static/js/2.f2d541ab.chunk.js.LICENSE.txt": "/influencer-side/static/js/2.f2d541ab.chunk.js.LICENSE.txt",
+    "static/media/Aashna.be3a7b2c.png": "/influencer-side/static/media/Aashna.be3a7b2c.png",
+    "static/media/Amaram.a0e5f419.png": "/influencer-side/static/media/Amaram.a0e5f419.png",
+    "static/media/Brand-Page-Banner-graphics@3x.8b257775.png": "/influencer-side/static/media/Brand-Page-Banner-graphics@3x.8b257775.png",
+    "static/media/Influ1.f1cd768a.png": "/influencer-side/static/media/Influ1.f1cd768a.png",
+    "static/media/Influ2.56ec2cb7.png": "/influencer-side/static/media/Influ2.56ec2cb7.png",
+    "static/media/Vikas.82aafaef.png": "/influencer-side/static/media/Vikas.82aafaef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b6997f3.js",
+    "static/js/2.f2d541ab.chunk.js",
+    "static/js/main.10c4a864.chunk.js"
+  ]
+}
